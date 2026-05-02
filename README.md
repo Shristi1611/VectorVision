@@ -1,4 +1,4 @@
-# VectorVision: Neural Network from Scratch
+# VectorVision: Neural Network from Scratch!
 
 A 2-layer Neural Network implemented exclusively in NumPy to classify fashion items from the Fashion-MNIST dataset. This project demonstrates manual implementation of backpropagation and matrix calculus without high-level ML frameworks.
 
