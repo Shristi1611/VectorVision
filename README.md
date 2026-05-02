@@ -11,7 +11,7 @@ A 2-layer Neural Network implemented exclusively in NumPy to classify fashion it
 ## 🛠️ Setup
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`.
-3. Download the `fashion-mnist_train.csv` from [Kaggle](https://www.kaggle.com/datasets/zalando-research/fashion-mnist) and place it in the project root.
+3. Download the `fashion-mnist_train.csv` from [Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist) and place it in the project root.
 4. Open `NeuralNetwork.ipynb` to train and test the model.
 
 ## 📈 Results
